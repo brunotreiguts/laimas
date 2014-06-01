@@ -1,0 +1,1 @@
+<div class="alert alert-success">Sadaļa sākums atvērta veiksmīgi</div>
